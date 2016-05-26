@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2012\Projects\VP\VP\bin\Release\VP.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\VP\VP\bin\Release\VP.exe
+c:\users\dell\documents\visual studio 2012\Projects\VP\VP\bin\Release\VP.pdb
+c:\users\dell\documents\visual studio 2012\Projects\VP\VP\obj\Release\VP.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\VP\VP\obj\Release\VP.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\VP\VP\obj\Release\VP.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\VP\VP\obj\Release\VP.exe
+c:\users\dell\documents\visual studio 2012\Projects\VP\VP\obj\Release\VP.pdb
+C:\Users\Dell\documents\visual studio 2012\Projects\VP\VP\obj\Release\VP.csprojResolveAssemblyReference.cache
